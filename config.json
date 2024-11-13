@@ -1,0 +1,13 @@
+{
+	"host": "https:// cosmisskey.cc",
+	"i": "vpVQKsKZUQsVY2hLXBOzsWeOmAFP8idW",
+	"master": "kkk2z1",
+	"notingEnabled": "true",
+	"keywordEnabled": "false",
+	"chartEnabled": "false",
+	"reversiEnabled": "true",
+	"serverMonitoring": "true",
+	"checkEmojisEnabled": "false",
+	"checkEmojisAtOnce": "false",
+	"memoryDir": "memory.json"
+}
